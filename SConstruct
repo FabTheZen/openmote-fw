@@ -5,6 +5,7 @@ cmd_options = {
 	'project'   :          [
 # TODO Add comma separated projects list here
 		'template',
+        'template-aes',
 # Tests
 		'test-ds18b20',
 		'test-modbus-rtu-master',
